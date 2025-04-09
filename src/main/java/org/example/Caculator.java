@@ -1,7 +1,7 @@
 package org.example;
 
 public class Caculator  {
-    Integer sum(Integer a, Integer b) {
+    static Integer sum(Integer a, Integer b) {
         return 0;
     }
 
